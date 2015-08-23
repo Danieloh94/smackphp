@@ -1,0 +1,14 @@
+{
+    "name": "aeon/framework",
+    "authors": [
+        {
+            "name": "Daniel Heath",
+            "email": "daniel@example.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Smack\\": "vendor/Smack/"
+        }
+    }
+}
